@@ -1,0 +1,8 @@
+name: Prototype
+main: Prototype.Prototype
+version: 0.0.1
+description: Ancora non si sa LOL!
+commands:
+  sitoweb:
+    description: Riporta il sitoweb
+    usage: /sitoweb
